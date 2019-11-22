@@ -1,0 +1,1 @@
+docker run -d --restart always --name defcon-ctfd -p 80:8000 ctfd/ctfd:latest
