@@ -16,8 +16,6 @@ Ao participar deste campeonato de _Capture the Flag_, você automaticamente conc
 2. A participação deste CTF é invididual. Portanto, não é permitido solicitar auxílio de outros membros, participantes e organizadores do evento.
 3. O campeonato terá duração de 8 horas, sem intervalo, com início às 09:00 horas do dia 30/11/2019 e encerramento às 17:00 do mesmo dia.
 4. Após o término do campeonato, o participante com o maior número de pontos vence. Em caso de empate no total de pontos, aquele que submeter a flag root da box *Spawn* primeiro terá a vantagem.
-
-5. Não é permitido deixar o espaço do evento durante a realização do CTF.
 6. É proibido o consumo de bebidas alcóolicas, cigarros e substâncias ilícitas nas premissas da Unisinos.
 7. Siga todas as demais regras e normas estabelecidas pela Unisinos.
 
