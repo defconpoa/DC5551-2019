@@ -27,6 +27,6 @@ Estadia em hotel + 1 (um) ingresso para a H2HC 2020 em São Paulo.
 
 #### Segundo Colocado
 
-1 (um) USB HID-Injector.
+1 (uma) Camisa Oficial DEF CON + 1 (um) Sticker.
 
 A equipe da DEF CON 5551 deseja a todos um ótimo evento.
